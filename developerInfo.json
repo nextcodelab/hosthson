@@ -8,5 +8,6 @@
   "Date": "2011-2020",
   "Site": "https://nextcodelab.github.io/",
   "Address": "Richmond Vill 1744",
-  "Logo": "https://raw.githubusercontent.com/nextcodelab/hosthson/main/logo.png"
+  "Logo": "https://raw.githubusercontent.com/nextcodelab/hosthson/main/logo.png",
+  "FavIcon": "https://raw.githubusercontent.com/nextcodelab/hosthson/main/favicon.png"
 }
