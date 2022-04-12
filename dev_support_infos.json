@@ -21,6 +21,14 @@
       "CountryCode": null,
       "Icon": "https://user-images.githubusercontent.com/16066404/77041853-a2044100-69e0-11ea-8da6-d64822a2c72a.jpg",
       "Enabled": true
+    },
+    {
+      "Url": "https://www.buymeacoffee.com/nextsupportlab",
+      "Title": "GCash",
+      "Name": null,
+      "CountryCode": "ph",
+      "Icon": "https://user-images.githubusercontent.com/16066404/77041853-a2044100-69e0-11ea-8da6-d64822a2c72a.jpg",
+      "Enabled": true
     }
   ]
 }
