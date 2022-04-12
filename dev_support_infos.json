@@ -11,7 +11,7 @@
       "Title": "Paypal",
       "Name": null,
       "CountryCode": null,
-      "Icon": "",
+      "Icon": "https://play-lh.googleusercontent.com/Y2_nyEd0zJftXnlhQrWoweEvAy4RzbpDah_65JGQDKo9zCcBxHVpajYgXWFZcXdKS_o=s360-rw",
       "Enabled": true
     },
     {
@@ -19,15 +19,15 @@
       "Title": "BuyCoffee",
       "Name": null,
       "CountryCode": null,
-      "Icon": "https://user-images.githubusercontent.com/16066404/77041853-a2044100-69e0-11ea-8da6-d64822a2c72a.jpg",
+      "Icon": "https://play-lh.googleusercontent.com/aMb_Qiolzkq8OxtQZ3Af2j8Zsp-ZZcNetR9O4xSjxH94gMA5c5gpRVbpg-3f_0L7vlo=s360-rw",
       "Enabled": true
     },
     {
-      "Url": "https://www.buymeacoffee.com/nextsupportlab",
+      "Url": "https://www.paypal.com/paypalme/robelinghog",
       "Title": "GCash",
       "Name": null,
       "CountryCode": "ph",
-      "Icon": "https://user-images.githubusercontent.com/16066404/77041853-a2044100-69e0-11ea-8da6-d64822a2c72a.jpg",
+      "Icon": "https://play-lh.googleusercontent.com/QNP0Aj2hyumAmYiWVAsJtY2LLTQnzHxdW7-DpwFUFNkPJjgRxi-BXg7A4yI6tgYKMeU=s360-rw",
       "Enabled": true
     }
   ]
