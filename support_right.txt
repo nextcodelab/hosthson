@@ -1,6 +1,6 @@
 <h4>Support the Developer</h4>
 <ul>
-    <li>Your support makes room for more improvement.</li>
+    <li>Your support helps improve the app and ensures ongoing development.</li>
  <li>
     You can email us or request a feature at <a href="mailto:belmegood24@gmail.com" class="dynamic-link">belmegood24@gmail.com</a>.
 </li>
