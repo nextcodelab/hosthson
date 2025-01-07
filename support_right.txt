@@ -5,7 +5,8 @@
     You can email us or request a feature at <a href="mailto:belmegood24@gmail.com" class="dynamic-link">belmegood24@gmail.com</a>.
 </li>
 </ul>
-<h4>Small Gift:</h4>
+<h4>Small Gift</h4>
+<p>If you'd like to show your appreciation, consider making a small contribution via one of the following platforms:</p>
 <div class="support-links">
     <a href="https://www.paypal.com/paypalme/robelinghog" target="_blank">
         <img src="https://play-lh.googleusercontent.com/Y2_nyEd0zJftXnlhQrWoweEvAy4RzbpDah_65JGQDKo9zCcBxHVpajYgXWFZcXdKS_o=s360-rw"
