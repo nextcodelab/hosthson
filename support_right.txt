@@ -5,7 +5,7 @@
     You can email us or request a feature at <a href="mailto:belmegood24@gmail.com" class="dynamic-link">belmegood24@gmail.com</a>.
 </li>
 </ul>
-<h4>Small Gift</h4>
+<!-- <h4>Small Gift</h4>
 <p>If you'd like to show your appreciation and supports:</p>
 <div class="support-links">
     <a href="https://www.paypal.com/paypalme/robelinghog" target="_blank">
@@ -27,4 +27,4 @@
             width="30" height="30">
         <span>GCash</span>
     </a>
-</div>
+</div> -->
